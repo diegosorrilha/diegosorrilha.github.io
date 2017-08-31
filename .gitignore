@@ -1,3 +1,6 @@
-.venv
+*.pyc
+*.pid
 __pycache__/
+.venv
 output/
+drafts/
