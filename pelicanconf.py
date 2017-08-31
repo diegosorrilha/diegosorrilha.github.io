@@ -3,8 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Diego Sorrilha'
-SITENAME = 'DiegoSorrilha'
+SITENAME = 'Diego Sorrilha'
 SITEURL = ''
+THEME_NAME = 'pelican-clean-blog'
+THEME = u'themes/'+ THEME_NAME
 
 PATH = 'content'
 
