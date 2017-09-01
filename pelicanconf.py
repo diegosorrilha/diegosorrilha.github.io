@@ -6,11 +6,12 @@ from __future__ import unicode_literals
 AUTHOR = 'Diego Sorrilha'
 SITENAME = 'Diego Sorrilha'
 SITESUBTITLE = 'Tecnologia e outras viagens da cabeça'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 PATH = 'content'
 TIMEZONE = 'America/Sao_Paulo'
 DEFAULT_LANG = 'pt'
 DEFAULT_PAGINATION = 10
+DISQUS_SITENAME = u'diegosorrilha'
 
 
 #### Theme settings ####
