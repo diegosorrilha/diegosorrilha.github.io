@@ -58,5 +58,11 @@ TAG_SAVE_AS = "tag/{slug}/index.html"
 AUTHOR_URL = 'author/{slug}'
 AUTHOR_SAVE_AS = 'author/{slug}/index.html'
 
+#### Setup Domain ####
+STATIC_PATHS = ['extras/CNAME']
+EXTRA_PATH_METADATA = {
+    'extras/CNAME': {'path': 'CNAME'},
+}
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
