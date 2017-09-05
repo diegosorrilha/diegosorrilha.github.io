@@ -5,11 +5,11 @@ from __future__ import unicode_literals
 #### Base config ####
 AUTHOR = 'Diego Sorrilha'
 SITENAME = 'Diego Sorrilha'
-SITESUBTITLE = 'Tecnologia e outras viagens da cabeça'
+SITESUBTITLE = 'Software Enginner & Consultant'
 SITEURL = 'http://localhost:8000'
 PATH = 'content'
 TIMEZONE = 'America/Sao_Paulo'
-DEFAULT_LANG = 'pt'
+DEFAULT_LANG = u'pt'
 DEFAULT_PAGINATION = 10
 DISQUS_SITENAME = u'diegosorrilha'
 
