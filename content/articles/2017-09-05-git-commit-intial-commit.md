@@ -9,7 +9,7 @@ Summary: Post de inauguração do Blog :)
 
 Bom, depois de muito tempo <strike>enrolando</strike> me organizando, finalmente coloquei meu blog no ar. \o/
 
-![alt text](/images/hell-yeah-dean.gif "Dean Winchester - Hell Yeah!")
+![Dean Winchester - Hell Yeah!](/images/hell-yeah-dean.gif "Dean Winchester - Hell Yeah!")
 
 ## Quem sou eu
 
@@ -34,6 +34,6 @@ Os assuntos que tenho interesse em escrever são:
 
 And here we go!
 
-![alt text](/images/joker-here-we-go.gif "Joker - And here we go!")
+![Joker - And here we go!](/images/here-we-go-joker.gif "Joker - And here we go!")
 
 
