@@ -1,5 +1,5 @@
 Title: git commit -m "initial"
-Date: 2017-09-01 10:20
+Date: 2017-09-05 18:45
 Category: Sem Categoria
 Slug: git-commit--m-initial-commit
 header_cover: /images/covers/initial-commit.jpg
