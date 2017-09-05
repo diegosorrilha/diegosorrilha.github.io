@@ -8,6 +8,7 @@ SITENAME = 'Diego Sorrilha'
 SITESUBTITLE = 'Software Enginner & Consultant'
 SITEURL = 'http://localhost:8000'
 PATH = 'content'
+STATIC_PATHS = ['extras/CNAME', 'images', 'favicon.png']
 TIMEZONE = 'America/Sao_Paulo'
 DEFAULT_LANG = u'pt'
 DEFAULT_PAGINATION = 10
@@ -59,10 +60,10 @@ AUTHOR_URL = 'author/{slug}'
 AUTHOR_SAVE_AS = 'author/{slug}/index.html'
 
 #### Setup Domain ####
-STATIC_PATHS = ['extras/CNAME']
 EXTRA_PATH_METADATA = {
     'extras/CNAME': {'path': 'CNAME'},
 }
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
