@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Diego Sorrilha'
 SITENAME = 'Diego Sorrilha'
 SITESUBTITLE = 'Software Enginner & Consultant'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://diegosorrilha.net'
 PATH = 'content'
 STATIC_PATHS = ['extras/CNAME', 'images', 'favicon.png']
 TIMEZONE = 'America/Sao_Paulo'
