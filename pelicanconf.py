@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 #### Base config ####
 AUTHOR = 'Diego Sorrilha'
 SITENAME = 'Diego Sorrilha'
-SITESUBTITLE = 'Software Enginner & Consultant'
+SITESUBTITLE = 'Software Engineer & Consultant'
 SITEURL = 'http://diegosorrilha.net'
 PATH = 'content'
 STATIC_PATHS = ['extras/CNAME', 'images', 'favicon.png']
