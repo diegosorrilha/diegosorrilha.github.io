@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Diego Sorrilha</title><link href="http://diegosorrilha.net/" rel="alternate"></link><link href="http://diegosorrilha.net/feeds/all.atom.xml" rel="self"></link><id>http://diegosorrilha.net/</id><updated>2018-01-25T10:30:00-02:00</updated><entry><title>Por que escolhi o Pelican para meu Blog</title><link href="http://diegosorrilha.net/por-que-escolhi-o-pelican-para-meu-blog" rel="alternate"></link><published>2018-01-25T10:30:00-02:00</published><updated>2018-01-25T10:30:00-02:00</updated><author><name>Diego Sorrilha</name></author><id>tag:diegosorrilha.net,2018-01-25:/por-que-escolhi-o-pelican-para-meu-blog</id><summary type="html">&lt;p&gt;Pelican é um gerador de sites estáticos, open source e escrito em Python...&lt;/p&gt;</summary><content type="html">&lt;h1&gt;O que é Pelican?&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Diego Sorrilha - Blog, Pelican</title><link href="http://diegosorrilha.net/" rel="alternate"></link><link href="http://diegosorrilha.net/feeds/blog-pelican.atom.xml" rel="self"></link><id>http://diegosorrilha.net/</id><updated>2018-01-25T10:30:00-02:00</updated><entry><title>Por que escolhi o Pelican para meu Blog</title><link href="http://diegosorrilha.net/por-que-escolhi-o-pelican-para-meu-blog" rel="alternate"></link><published>2018-01-25T10:30:00-02:00</published><updated>2018-01-25T10:30:00-02:00</updated><author><name>Diego Sorrilha</name></author><id>tag:diegosorrilha.net,2018-01-25:/por-que-escolhi-o-pelican-para-meu-blog</id><summary type="html">&lt;p&gt;Pelican é um gerador de sites estáticos, open source e escrito em Python...&lt;/p&gt;</summary><content type="html">&lt;h1&gt;O que é Pelican?&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://blog.getpelican.com/"&gt;Pelican&lt;/a&gt; é um gerador de sites estáticos, &lt;a href="https://github.com/getpelican/pelican"&gt;open source&lt;/a&gt; e escrito em Python.&lt;/p&gt;
 &lt;p&gt;Com ele você pode escrever seu conteúdo nos formatos: reStructuredText, Markdown ou AsciiDoc.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -44,20 +44,4 @@
 &lt;p&gt;Paremos para pensar: Um blog realmente precisa ser dinâmico? Com qual frequência você altera os dados dos seu posts antigos, por exemplo? Pois é, quase nunca.&lt;/p&gt;
 &lt;p&gt;Veja o que se encaixa melhor para você e foco no valor que você quer entregar. :D&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Gostou do post? Deixe sua opinião, vamos interagir! ;)&lt;/p&gt;</content><category term="pelican"></category><category term="blog"></category></entry><entry><title>git commit -m "initial"</title><link href="http://diegosorrilha.net/git-commit--m-initial-commit" rel="alternate"></link><published>2017-09-05T18:45:00-03:00</published><updated>2017-09-05T18:45:00-03:00</updated><author><name>Diego Sorrilha</name></author><id>tag:diegosorrilha.net,2017-09-05:/git-commit--m-initial-commit</id><summary type="html">&lt;p&gt;Post de inauguração do Blog :)&lt;/p&gt;</summary><content type="html">&lt;p&gt;Bom, depois de muito tempo &lt;strike&gt;enrolando&lt;/strike&gt; me organizando, finalmente coloquei meu blog no ar. \o/&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Dean Winchester - Hell Yeah!" src="/images/hell-yeah-dean.gif" title="Dean Winchester - Hell Yeah!"&gt;&lt;/p&gt;
-&lt;h2&gt;Quem sou eu&lt;/h2&gt;
-&lt;p&gt;Sou o Diego Sorrilha, engenheiro de software e atuo desde 2009 como desenvolvedor. &lt;/p&gt;
-&lt;p&gt;Por ter trabalhado bastante com projetos de Startups e Empreendedorismo (aliado a Métodos Ágeis), aprendi a focar o desenvolvimento no valor entregue ao cliente, resolvendo assim as dores que o cliente tem.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;O Porquê do Blog&lt;/h2&gt;
-&lt;p&gt;A ideia desse blog é compartilhar um pouco do que tenho aprendido e assim devolver para a comunidade. Muitas vezes achamos que não temos nada a ensinar/compartilhar, mas sempre temos.&lt;/p&gt;
-&lt;p&gt;Os assuntos que tenho interesse em escrever são:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Desenvolvimento de software (Backend &amp;amp; Frontend)&lt;/li&gt;
-&lt;li&gt;Tecnologia em geral&lt;/li&gt;
-&lt;li&gt;Autonomia&lt;/li&gt;
-&lt;li&gt;Viagens da cabeça&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And here we go!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Joker - And here we go!" src="/images/here-we-go-joker.gif" title="Joker - And here we go!"&gt;&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;Gostou do post? Deixe sua opinião, vamos interagir! ;)&lt;/p&gt;</content><category term="pelican"></category><category term="blog"></category></entry></feed>
